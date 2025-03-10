@@ -1,0 +1,3 @@
+C:/Users/mario/CLionProjects/la_caduta_dei_gravi/cmake-build-debug/CMakeFiles/la_caduta_dei_gravi.dir
+C:/Users/mario/CLionProjects/la_caduta_dei_gravi/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mario/CLionProjects/la_caduta_dei_gravi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
